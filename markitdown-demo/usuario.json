@@ -1,0 +1,10 @@
+{
+  "empresa": "TechCorp",
+  "empleados": [
+    {"nombre": "Ana García", "cargo": "Desarrolladora", "anos": 3},
+    {"nombre": "Luis Pérez", "cargo": "Diseñador", "anos": 5},
+    {"nombre": "María López", "cargo": "Product Manager", "anos": 7}
+  ],
+  "sede": "Ciudad de México",
+  "fundacion": 2015
+}
